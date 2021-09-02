@@ -1,5 +1,0 @@
-.env
-.gitignore
-*/migrations/
-*/pycache/*
-*pyc
